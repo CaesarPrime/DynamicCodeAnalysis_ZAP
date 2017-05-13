@@ -1,0 +1,4 @@
+The 2 web apps included with this repsoitory are 
+JavaVulnerableApp - https://sourceforge.net/projects/javavulnerablelab/files/latest/JavaVulnerableLab.war/download
+OWASP WebGoat 7.1 - https://github.com/WebGoat/WebGoat/releases 
+These can be downloaded with the respectively given links.
